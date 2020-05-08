@@ -1,0 +1,42 @@
+body{
+    font-size: 18px;
+}
+
+a:link {
+    text-decoration: none;
+  }
+.navbar-toggler {
+    padding: 0.25rem 0.75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+  }
+  
+
+#main-nav{
+	border-radius: 0;
+    background-color:rebeccapurple  ;	
+    padding: 20px;
+}
+
+#nav-items ul li a{
+    color: #000;
+    text-align: center;
+}
+
+#nav-button .icon-bar{
+    border: 1px solid #000;
+    
+}
+
+#brand{
+	color: blanchedalmond;
+	margin: 0px;
+}
+
+#main-content{
+	
+	margin: 15px;
+    height: 1000px;
+}
